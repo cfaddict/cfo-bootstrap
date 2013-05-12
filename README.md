@@ -1,18 +1,12 @@
-Bootstrap 2 Presentation
+Responsive Web Applications using Bootstrap
 =======================================================================
-I am giving this presentation to the Greater Cleveland PC Users Group (http://www.gcpcug.org/websig?eventId=522225&EventViewMode=EventDetails
-) on 10/20/2102. If you're interested in having me present to your user group please contact me.
+People are consuming content on a wide range of devices these days. It is estimated that by the year 2014 mobile traffic will take over desktop traffic. With this trend your web applications need to be responsive.
 
-About This Presentation
-=======================================================================
+In the 1st part of this presentation we are going to look at the ever changing landscape of web design. Where we started out, where we are going and how we go there are important stops on this scenic route. When we fully understand the future we can start to plan for it and thats exactly what we will do here today. 
 
-Please come join us Saturday, October 20th, to learn about Bootstrap, from Twitter. Bootstrap is an amazing set of tools to help you kick-start your web applications. It is designed to help people of all skill levels -- designer or developer, huge nerd or early beginner. Use it as a complete kit or use it to start something more complex.
+We are going to take a look at Bootstrap 2.0 which is a tookit that gives you the tools to rapidly develop the front end of your app. This is not only a kit to make pretty buttons with, this will give you the power to developer responsive web applications that can be viewed on a wide range of devices. We take a tour of all the parts that make up the bootstrap toolkit. 
 
-It was originally built with only modern browsers in mind, but it has evolved to include support for all major browsers and, with Bootstrap 2, tablets and smart phones. Despite its small footprint, Bootstrap is one of the most complete front-end toolkits out there with dozens of fully functional components ready to be put to use.
-
-In this presentation, we will talk about the origin of Bootstrap, what it is, and where it may be heading. We will take a deep dive into all of the features of this toolkit.
-
-When you leave this presentation, you should have an understanding of what it does and how to get started. Presenter Dan Vega states: "I feel confident that once you see just how awesome Bootstrap is, you may never start another project without it."
+I feel confident that after this presentation you will have a  much better idea of what boostrap is, what it can do and why you need to be focused on builiding responsive web applications. 
 
 Speaker Bio
 =======================================================================
