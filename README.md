@@ -10,9 +10,8 @@ I feel confident that after this presentation you will have a  much better idea 
 
 Speaker Bio
 =======================================================================
-Dan Vega (@cfaddict) is a Senior Developer for the REX Development Department at First Comp, and has been developing software for nine years. Dan has a passion for inspiring and educating others. This has led to his being named an Adobe Community Professional for the last two years. He also blogs regularly at www.DanVega.org/blog about his daily findings, and enjoys speaking to those willing to listen.
+Dan Vega (@cfaddict) is a Senior Developer for the REX Development Department at First Comp, and has been developing software for nine years. Dan has a passion for inspiring and educating others. This has led to his being named an Adobe Community Professional for the last two years. He also blogs regularly at www.danvega.org/blog about his daily findings, and enjoys speaking to those willing to listen.
 
-Dan is also the manager of the Cleveland Adobe User Group Group. As manager, he regularly provides content to the group, answers members' questions, and presents on a wide variety of topics at monthly Cleveland AUG meetings, and has also presented to other user groups. 
 
 Image Credits
 =======================================================================
