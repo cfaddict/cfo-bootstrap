@@ -298,7 +298,7 @@ slides > slide.blue {
 /* line 171, ../scss/default.scss */
 slides > slide:not(.nobackground):before {
   font-size: 12pt;
-  content: "#WebSigCLE";
+  content: "#cfObjective";
   position: absolute;
   bottom: 20px;
   left: 60px;

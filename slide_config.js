@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Responsive Web Apps<br>Bootstrap 2.0',
-    subtitle: 'WebSIG Cleveland 10/20/12',
+    title: 'Responsive Web Apps<br>Bootstrap',
+    subtitle: 'cf.Objective() 2013',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
@@ -20,7 +20,6 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Dan Vega',
     company: 'Senior Developer, FirstComp',
-    gplus: 'http://plus.google.com/100658587973307989038',
     twitter: '@cfaddict',
     www: 'http://www.danvega.org',
     github: 'http://github.com/cfaddict'
