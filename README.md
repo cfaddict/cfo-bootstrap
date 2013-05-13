@@ -17,7 +17,7 @@ Image Credits
 =======================================================================
 If I forgot to credit you for an image I used I am sorry. Please contact me and I will update the readme asap.
 
-Multiple Devices
+Multiple Devices<br/>
 http://upload.wikimedia.org/wikipedia/commons/d/dc/Cuddling_with_multiple_devices.jpg
 
 Mobile Vs Desktop Usage
