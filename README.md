@@ -20,11 +20,11 @@ If I forgot to credit you for an image I used I am sorry. Please contact me and 
 Multiple Devices<br/>
 http://upload.wikimedia.org/wikipedia/commons/d/dc/Cuddling_with_multiple_devices.jpg
 
-Mobile Vs Desktop Usage
+Mobile Vs Desktop Usage<br/>
 http://www.marinamanagement.com/blog/2012/2/20/going-mobile-web-access-has-changed-has-your-website.html#.UIFNEsXA-Rc
 
 Additional Credits
 =======================================================================
 
-Prototyping Responsive HTML5 Web Apps with Matt Kelly
+Prototyping Responsive HTML5 Web Apps with Matt Kelly<br/>
 http://www.youtube.com/watch?v=V2EjipWZ7co&feature=g-vrec
