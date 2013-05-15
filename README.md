@@ -27,7 +27,7 @@ Additional Credits
 =======================================================================
 
 Prototyping Responsive HTML5 Web Apps with Matt Kelly<br/>
-http://www.youtube.com/watch?v=V2EjipWZ7co&feature=g-vrec<br/><br/>
+http://www.youtube.com/watch?v=V2EjipWZ7co&feature=g-vrec<br/>
 
 Google IO HTML5 Slides<br/>
 https://code.google.com/p/io-2012-slides
